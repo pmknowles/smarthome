@@ -4,7 +4,7 @@ layout: documentation
 
 {% include base.html %}
 
-# WeatherUnderground Binding
+# WeatherUnderground Binding - Note this service is being withdrawn at the end 0f 2018
 
 This binding uses the [Weather Underground service](https://www.wunderground.com/weather/api/) for providing weather information for any location worldwide.
 
